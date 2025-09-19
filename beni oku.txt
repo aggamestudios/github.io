@@ -1,0 +1,33 @@
+https://github.com/aggamestudios/github.io/tree/main -aggames363 gmail ile giriş
+
+https://aggamestudios.github.io/github.io/aggames.txt - txt dosyası linki
+
+
+Google play png resmini açmak için link oluştur
+Örnek
+google play resmi : https://play-lh.googleusercontent.com/jfbV45BoIAD5BbjY4lccRAIkKDGNvqW1qLBvCFqxF_lkTZs2Fvp9aYm8gqQntVq92Q=w240-h480-rw
+çevirici link: https://images.weserv.nl/?url=
+Not: google resminin sonundaki = den sonra =w240-h480-rw olan kısmı sil yoksa png olmaz
+çalışan link şöyle google play resmindeki https:// kaldır direk alttaki linkin yanına ekle
+son link:https://images.weserv.nl/?url=play-lh.googleusercontent.com/jfbV45BoIAD5BbjY4lccRAIkKDGNvqW1qLBvCFqxF_lkTZs2Fvp9aYm8gqQntVq92Q
+
+
+
+---------Githubdan açmak için 
+
+pages.github.com buradan kayıt ol new reposity yap oraya upload txt dosyanı yükle
+
+Video için ise gerekenler youtubevideceviri.rar da oku beni var
+
+aggames.txt detay
+--------------------------
+0,1 banner aktiflik=1/deaktiflik=0
+banner icon png link
+banner game name text
+banner game link url
+0,1 video aktiflik=1/deaktiflik=0
+video icon png link
+video game name text
+video link mp4
+video game link url
+videonun her menüde açılıp açılmadığı verisi(1:her menüye döndüğünde açılır 2:menüde 2de1 açılır 3:menüye 3kere girdiğinde sadece 1 kere açılır)
